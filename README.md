@@ -23,3 +23,9 @@ var ctx=c.getContext("2d");
 var imgData=ctx.getImageData(10,10,50,50);
 ctx.putImageData(imgData,10,70);
 ```
+
+
+
+#### 扩展阅读
+
+* [w3school canvas](http://www.w3school.com.cn/tags/canvas_getimagedata.asp)
