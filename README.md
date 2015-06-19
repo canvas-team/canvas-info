@@ -29,3 +29,4 @@ ctx.putImageData(imgData,10,70);
 #### 扩展阅读
 
 * [w3school canvas](http://www.w3school.com.cn/tags/canvas_getimagedata.asp)
+* [MDN - Canvas_API](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas)
