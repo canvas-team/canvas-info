@@ -4,9 +4,9 @@ basic info for canvas
 
 ## getImageData
 
-···
+```
 var imgData=context.getImageData(x,y,width,height);
-···
+```
 
 ## putImageData
 
